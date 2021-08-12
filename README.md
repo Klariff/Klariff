@@ -29,6 +29,6 @@
 [![](https://img.shields.io/badge/-🧬%20My%20Website%20Frontend-000)](https://github.com/klariff/klariff-front)
 [![](https://img.shields.io/badge/-🧬%20My%20Website%20Backend-000)](https://github.com/klariff/klariff-back)
 
-<a href="https://www.klariff.net/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=klariff&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klariff&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&theme=graywhite" />
-<img height="137px" src="https://github-readme-stats.vercel.app/api/wakatime?username=klariff&layout=compact" />
+<a href="https://www.klariff.net/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=klariff&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klariff&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&theme=graywhite" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Klariff&hide_title=true">
 </a>
