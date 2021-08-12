@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="900" src="https://github.com/Klariff/Klariff/blob/main/animation_profile.gif?raw=true" alt="Profile Animation">
+  <img width="900" src="https://github.com/Klariff/Klariff/blob/main/ezgif-7-d44538beee9e.gif?raw=true" alt="Profile Animation">
 </p>
 
 ### Languages
