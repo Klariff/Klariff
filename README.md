@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" src="https://github.com/Klariff/Klariff/blob/main/animation_profile.gif?raw=true" alt="Profile Animation">
+  <img width="900" src="https://github.com/Klariff/Klariff/blob/main/animation_profile.gif?raw=true" alt="Profile Animation">
 </p>
 
 ### Languages
@@ -29,8 +29,6 @@
 [![](https://img.shields.io/badge/-🧬%20My%20Website%20Frontend-000)](https://github.com/klariff/klariff-front)
 [![](https://img.shields.io/badge/-🧬%20My%20Website%20Backend-000)](https://github.com/klariff/klariff-back)
 
-
-<a href="https://www.klariff.net/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=klariff&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klariff&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&theme=graywhite" /></a>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=klariff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://www.klariff.net/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=klariff&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klariff&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/wakatime?username=klariff&layout=compact" />
+</a>
