@@ -23,6 +23,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![Apache_Spark](https://img.shields.io/badge/-Spark-000?&logo=apache-spark)
 
 ### Personal Projects
 
