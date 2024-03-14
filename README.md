@@ -1,30 +1,3 @@
-<p align="center">
-  <img width="80%" src="https://raw.githubusercontent.com/Klariff/Klariff/main/banner.gif" alt="Profile Animation">
-</p>
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
-### Technologies
-
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
-![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![Apache_Spark](https://img.shields.io/badge/-Spark-000?&logo=apache-spark)
-
 ### Personal Projects
 
 [![](https://img.shields.io/badge/-🧬%20My%20Website%20Frontend-000)](https://github.com/klariff/klariff-front)
